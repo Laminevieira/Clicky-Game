@@ -1,0 +1,69 @@
+
+[
+    {
+      "id": 1,
+      "image": "./images/Drogba.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./images/Etoo.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./images/Neymar.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./images/Ronaldinho.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./images/ronaldo.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./images/Ronaldo.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./images/zidane.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./images/Zlatan.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./images/Diouf.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./images/Messi.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./images/Romario.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./images/Beckahm.jpg",
+      "clicked": false
+    },
+    {
+      "id": 13,
+      "image": "./images/Mbappe.jpg",
+      "clicked": false
+    }
+  ]
+  
